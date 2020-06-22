@@ -16,3 +16,7 @@ So I'll teach you how to upgrade or downgrade the LeagueCLient without Garena:
 3. Open up the LeagueClient's settings from the top right corner
 4. Click on the version tab, double click on Game Version's number which enables the custom patch GUI
 5. Choose the patch which match the current garena LeagueClient's version
+
+## Garena unable to open back league?
+If you change locale before, it will patch some settings which breaks the garena, so use this method to restore the settings
+1. Simply click "fix garena" from the launcher's dock icon and try again
