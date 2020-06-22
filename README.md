@@ -1,6 +1,7 @@
 # LeagueLauncher
 - Instant launch League of Legends without Garenea
 - A launcher that allows to patch over 28 languages pack with voice over
+- Get faster update speed with in-client patch without needing to wait that long lost garena patcher to build manifest file
 
 ## Installation
 1. Downlaod LeagueLauncher from my repo
